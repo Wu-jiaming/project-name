@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+#upgrade{
+	width:auto;
+	height:600px;
+	border:2px solid #ccc;
+	font-size:12px;
+	
+}
+
+#upgrade h2{
+	text-indent:0;
+	text-align:center;
+}
+#upgrade ul li{
+	line-height:20px;
+	font-size:20px;
+	padding:10px;
+	color:red;
+	
+}
+#upgrade .pay h3{
+	text-indent:5em;
+}
+#upgrade .tips{
+	margin:5px;
+	color:#808080;
+}
